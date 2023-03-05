@@ -1,4 +1,4 @@
-<h2 align="center">
+<!-- <h2 align="center">
   Portfolio Website
 </h2>
 <div align="center">
@@ -46,3 +46,4 @@ Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
 
+ -->
