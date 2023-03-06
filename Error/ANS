@@ -1,0 +1,7 @@
+// RUN in your teminal 
+npm run build 
+
+// Open Netlify and Add New SIte -> DEPLOY MANUALLY 
+
+// Drag and open BUILD FOLDER From Local host "npm run build"
+
