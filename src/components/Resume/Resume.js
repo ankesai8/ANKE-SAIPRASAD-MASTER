@@ -64,7 +64,7 @@ function Resume() {
               content={[
                 "Manages all the app  like improving UI/UX and design of the Project. ",
                 // "Worked with team members to improve the features of website.",
-                "Managed AWS and AuthO abd Worked on different features of website  ",
+                "Managed AWS and AuthO & Worked on different features of website  ",
               ]}
             />
           </Col>
